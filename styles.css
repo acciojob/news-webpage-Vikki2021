@@ -10,9 +10,38 @@
 	padding: 25px;
 }
 
+.sub-heading {
+	display: flex;	
+}
+
 .latest-news-section {
 	background-color:white;
 	color:black;
-	height:100px;
-	width:30px;
+	height:100%;
+	width:100%;
+	margin:20px;
+	padding:20px;
+}
+
+.main {
+	background-color:white;
+	color:black;
+	height:100%;
+	width:100%;
+	margin:20px;
+	padding:20px;
+}
+
+.pictorial-news-section {
+	background-color:white;
+	color: black;
+	height:100%;
+	width:100%;
+	margin:20px;
+	padding:20px;
+}
+
+.img-1 {
+	height:100%;
+	width:100%;
 }
