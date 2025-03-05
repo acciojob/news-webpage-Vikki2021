@@ -12,24 +12,27 @@ body {
 
 .sub-heading {
 	display: flex;	
+	height:100%;
+	width:100%;
+	justify-content:space-between;
 }
 
 .latest-news-section {
 	background-color:white;
 	color:black;
-	height:100%;
-	width:100%;
-	margin:10px;
+	height:90%;
+	width:90%;
 	padding:20px;
 	border-radius:20px;
+	text-align: center;
+	
 }
 
 .main {
 	background-color:white;
 	color:black;
-	height:100%;
-	width:100%;
-	margin:10px;
+	height:90%;
+	width:90%;
 	padding:20px;
 	border-radius:20px;
 }
@@ -37,9 +40,8 @@ body {
 .pictorial-news-section {
 	background-color:white;
 	color: black;
-	height:100%;
-	width:100%;
-	margin:10px;
+	height:90%;
+	width:90%;
 	padding:20px;
 	border-radius:20px;
 }
